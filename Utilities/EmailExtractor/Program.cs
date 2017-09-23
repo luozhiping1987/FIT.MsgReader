@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using MsgReader.Outlook;
+using FIT.MsgReader.Outlook;
 // ReSharper disable LocalizableElement
 
 /*

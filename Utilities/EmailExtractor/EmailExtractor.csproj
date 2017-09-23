@@ -40,9 +40,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MsgReader\MsgReader.csproj">
+    <ProjectReference Include="..\..\FIT.MsgReader\FIT.MsgReader.csproj">
       <Project>{883d8c6e-2bec-4c67-80b0-56e54a9fb214}</Project>
-      <Name>MsgReader</Name>
+      <Name>FIT.MsgReader</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
